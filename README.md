@@ -1,1 +1,1 @@
-# Skin-Cancer-Classification-Model
+# Skin Cancer Classification Model for Advanced Machine Learning Course
