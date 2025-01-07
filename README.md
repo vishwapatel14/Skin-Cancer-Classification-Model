@@ -1,5 +1,7 @@
 # Skin Cancer Classification Model Project 
 
+### Check out out Medium for our [full project report and findings](https://medium.com/@sankeerth998/from-pixels-to-prognosis-using-machine-learning-to-improve-skin-cancer-diagnosis-660b9767a868) 
+
 
 ## **Overview**
 Skin cancer is one of the most prevalent cancers globally, and early detection significantly improves prognosis. This project aims to develop a machine learning pipeline for binary classification of skin lesions (cancerous vs. noncancerous) and explain the predictions using state-of-the-art interpretability techniques like **Integrated Gradients** and **Guided Grad-CAM** (via Captum). The goal is to provide a model that is not only accurate but also trustworthy for real-world healthcare applications.
