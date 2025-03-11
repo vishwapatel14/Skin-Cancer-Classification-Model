@@ -1,6 +1,6 @@
 # Skin Cancer Classification Model Project 
 
-### Check out out Medium for our [full project report and findings](https://medium.com/@sankeerth998/from-pixels-to-prognosis-using-machine-learning-to-improve-skin-cancer-diagnosis-660b9767a868) 
+### Check out Medium for our [full project report and findings](https://medium.com/@sankeerth998/from-pixels-to-prognosis-using-machine-learning-to-improve-skin-cancer-diagnosis-660b9767a868) 
 
 
 ## **Overview**
